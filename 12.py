@@ -1,0 +1,15 @@
+import turtle
+wn=turtle.Screen()
+jamal=turtle.Turtle()
+jamal.color("blue")
+jamal.pensize(5)
+jamal.left(90)
+jamal.forward(150)
+
+tina=turtle.Turtle()
+tina.color("orange")
+tina.shape("turtle")
+tina.stamp()
+tina.circle(90)
+tina.pensize(5)
+tina.forward(150)
